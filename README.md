@@ -1,4 +1,6 @@
-![Capa do Dashboard](/Users/hellenmendes/Desktop/capa_DASH.png)
+git add capa-dashboard.png
+git commit -m "Adiciona imagem de capa do dashboard"
+git push
 
 Este projeto é uma simulação com **dados fictícios** de vendas de Suplementos, com o objetivo de demonstrar habilidades em análise e visualização de dados usando o **Power BI**.
 
