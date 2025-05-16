@@ -1,3 +1,4 @@
+<img width="1315" alt="Image" src="https://github.com/user-attachments/assets/7664fe8f-3686-4668-871e-c940efc33b2f" />
 
 Este projeto é uma simulação com **dados fictícios** de vendas de Suplementos, com o objetivo de demonstrar habilidades em análise e visualização de dados usando o **Power BI**.
 
