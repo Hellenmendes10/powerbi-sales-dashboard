@@ -1,4 +1,4 @@
-![Capa do Dashboard](capa_DASH.png)
+![Capa do Dashboard](/Users/hellenmendes/Desktop/capa_DASH.png)
 
 Este projeto é uma simulação com **dados fictícios** de vendas de Suplementos, com o objetivo de demonstrar habilidades em análise e visualização de dados usando o **Power BI**.
 
