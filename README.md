@@ -38,3 +38,5 @@ Analisar o crescimento das vendas por:
 ---
 
 > Este projeto é uma simulação e foi criado para fins de portfólio profissional.
+>
+> ![Capa do Dashboard](MESA/CAPA_DASH.png)
